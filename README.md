@@ -11,13 +11,13 @@
 
 ###
 
-<p align="left">
-  ✨ Creating 🪲's since 2014<br>📚 I'm currently learning Kubernetes<br>
-  🎯 Goals: Try to take over the world... 🐭🧠<br>
-  🎲 Fun fact: I like to break things... so I can put them back together 🤪<br>
-  📫 How to reach me:<br>
-  <a href="https://www.linkedin.com/in/blaze-bryant"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" height="50" alt="LinkedIn"></a>
-</p>
+<p align="left">✨ Creating 🪲's since 2014</p>
+<p>📚 I'm currently learning Kubernetes</p>
+<p>🎯 Goals: Try to take over the world... 🐭🧠</p>
+<p>🎲 Fun fact: I like to break things... so I can put them back together 🤪</p>
+<p>📫 How to reach me:</p>
+<p><a href="https://www.linkedin.com/in/blaze-bryant"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" height="50" alt="LinkedIn"></a></p>
+<br>
 
 ###
 
@@ -25,11 +25,11 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
@@ -62,9 +62,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+<br>
 
 ###
 
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naturalblaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naturalblaze&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="350" alt="languages graph"  />
 </div>
