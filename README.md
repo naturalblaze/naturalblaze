@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Blaze Bryant and I'm a meat popsicle 🤣 , from the Asheville, NC area ♥️⛰️.</p>
+<p align="left">My name is Blaze Bryant and I'm a meat popsicle 🥶 , from the Asheville, NC area ♥️⛰️.</p>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyYWV4MWF6dnFmOTN4Ymc0YXYxcGY4dXF0d2UzdnV5YnA3ZXdrMnc1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KUBtckMKh3AKk/giphy.gif" height="120" alt="Fifth Element - Korban Dallas" >
 <br>
 <p>Infrastructure and Network Engineer that ♥️'s to build and automate 🤖 things from my 🏠 to my job 😁</p>
