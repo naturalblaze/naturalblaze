@@ -17,6 +17,7 @@
 <p>🎲 Fun fact: I like to break things... so I can put them back together 🤪</p>
 <p>📫 How to reach me:</p>
 <p><a href="https://www.linkedin.com/in/blaze-bryant"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRokEYt0yyh6uNDKL8uksVLlhZ35laKNQgZ9g&s" height="50" alt="LinkedIn"></a></p>
+<p><a href="https://portfolio.blaze-bryant.dev"><img src="https://portfolio.blaze-bryant.dev/static/portfolio_app/icon.png" height="50" alt="Portfolio"></a></p>
 <br>
 
 ###
